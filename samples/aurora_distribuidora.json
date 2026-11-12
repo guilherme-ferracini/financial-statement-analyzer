@@ -1,0 +1,56 @@
+{
+  "company": "Aurora Distribuidora Ltda (fictional)",
+  "currency": "BRL",
+  "years": {
+    "2024": {
+      "income_statement": {
+        "gross_revenue": 18400000,
+        "deductions": 2760000,
+        "cost_of_goods_sold": 10950000,
+        "selling_expenses": 1480000,
+        "administrative_expenses": 1210000,
+        "depreciation_amortization": 310000,
+        "financial_income": 95000,
+        "financial_expenses": 640000,
+        "income_tax": 360000
+      },
+      "balance_sheet": {
+        "cash": 1150000,
+        "accounts_receivable": 2420000,
+        "inventory": 2980000,
+        "other_current_assets": 210000,
+        "non_current_assets": 4380000,
+        "accounts_payable": 1860000,
+        "short_term_debt": 1250000,
+        "other_current_liabilities": 690000,
+        "long_term_debt": 2100000,
+        "equity": 5250000
+      }
+    },
+    "2025": {
+      "income_statement": {
+        "gross_revenue": 20150000,
+        "deductions": 3020000,
+        "cost_of_goods_sold": 12480000,
+        "selling_expenses": 1690000,
+        "administrative_expenses": 1340000,
+        "depreciation_amortization": 335000,
+        "financial_income": 70000,
+        "financial_expenses": 910000,
+        "income_tax": 205000
+      },
+      "balance_sheet": {
+        "cash": 640000,
+        "accounts_receivable": 3310000,
+        "inventory": 3720000,
+        "other_current_assets": 230000,
+        "non_current_assets": 4520000,
+        "accounts_payable": 2050000,
+        "short_term_debt": 2380000,
+        "other_current_liabilities": 760000,
+        "long_term_debt": 1960000,
+        "equity": 5300000
+      }
+    }
+  }
+}
